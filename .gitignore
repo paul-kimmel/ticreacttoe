@@ -25,3 +25,4 @@ dist-ssr
 /ticreacttoe.sln
 /.vs/ticreacttoe/FileContentIndex/3c671cf5-094f-4de3-aa1d-cd2cb7d1d16d.vsidx
 /.vs/ticreacttoe/FileContentIndex/ba3f8d93-1c0e-4f59-81e7-7110aeba4f19.vsidx
+*.vsidx
